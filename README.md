@@ -1,2 +1,2 @@
 # oxdjww.github.io
-github blog
+about me
