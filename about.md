@@ -9,13 +9,7 @@ title: About
 
 2000.03.22
 
-### [✉️ E-mail](oxdjww@gmail.com)
-
-### [💻 Github](https://github.com/oxdjww)
-
-### [📌 Blog](https://blog.oxdjww.site)
-
-### [🌈 Instagram](https://www.instagram.com/oxdjww/)
+### [✉️ E-mail](oxdjww@gmail.com) / [💻 Github](https://github.com/oxdjww) / [📌 Blog](https://blog.oxdjww.site) / [🌈 Instagram](https://www.instagram.com/oxdjww/)
 
 ---
 
