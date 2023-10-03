@@ -69,5 +69,5 @@ Yangchung High School 2016.3 - 2019.2
     - 2022 대동제 주점/주간부스 기획 및 운영
     - 2022 학부 총 MT 기획 , 운영 및 행사진행
 - [OOP Study](https://www.notion.so/180d6afc316a4ff2bb81e9fa2f635025?pvs=21)
-- [2023 SSU Devcon 세미나 발표](https://www.notion.so/SSU-Devcon-01ca4ba1b6a2465eb6bd19621e9acaa0?pvs=21
+- [2023 SSU Devcon 세미나 발표](https://www.notion.so/SSU-Devcon-01ca4ba1b6a2465eb6bd19621e9acaa0?pvs=21)
 
