@@ -26,48 +26,19 @@ title: About
 
 ---
 
-## 🏫 Educations
+## History
 
-Soongil Univ 2019.3 -
+### [Details](https://oxdjww.site/logs)
 
-- Major in Software Engineering
-- Convergence Major in Information Security
-
-Yangchung High School 2016.3 - 2019.2
-<br>
-
-## 🌐 Communities
-
-- [한국정보기술연구원 차세대보안리더양성프로그램 Best of the Best 12기 보안제품개발트랙](https://www.kitribob.kr/)
-    - [bob archive](https://github.com/bob-12th)
-- [2023 대학정보보보호동아리 KUCIS(ASC)](https://www.kisia.or.kr/talent_support/kucis_info/)
-- [UMC 4th,5th Server(SpringBoot)](https://www.makeus.in/umc)
-- [Naver D2 Campus Partner(ASC)](https://github.com/D2CAMPUS-PARTNER/2022-Kick-off)
-- [숭실대학교 소프트웨어학부 보안소모임 ASC](https://www.notion.so/1e2e608c98c949a696f02b363480ae38?pvs=21)
-
-<br>
-
-## 🏆 Awards
-
-[UMC Ideathon 우수상 ](https://www.notion.so/UMC-Ideathon-5d8b54b888ae49a292c76cafe8e3c755?pvs=21)
-
-[UMC 4th Demoday 우수상 ](https://www.notion.so/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c?pvs=21)
-
-<br>
-
-## 🪪 Certifications
-
-- TOPCIT 374(Lv2) (2023.05.20)
-
-<br>
-
-## 🔥 Others
-
-- 병역필 (대한민국 육군 포병 2020.1~2021.07)
-- 숭실대학교 소프트웨어학부 7대 학생회 Stream (2021.11 - 2022.12)
-    - 2022 학부 새내기배움터 기획 및 진행
-    - 2022 대동제 주점/주간부스 기획 및 운영
-    - 2022 학부 총 MT 기획 , 운영 및 행사진행
-- [OOP Study](https://oxdjww.notion.site/4a844329058c4277b7a3366d4c8248d3?pvs=4)
-- [2023 SSU Devcon 세미나 발표](https://www.notion.so/SSU-Devcon-01ca4ba1b6a2465eb6bd19621e9acaa0?pvs=21)
-
+Yangchung High School (2016.03 - 2019.02) <br>
+    Soongsil Univ. (2019.03 - ) <br>
+    - Major in Software Engineering <br>
+    - Convergence Major in Information Security <br>
+    [ASC : Academic Security Club](https://www.notion.so/ASC-1e2e608c98c949a696f02b363480ae38?pvs=4) (2022.09 - ) <br>
+    - Club of Soongsil Univ. Software <br>
+    - 2022 Naver D2 Campus Partner <br>
+    - [2023 KUCIS](https://www.kisia.or.kr/talent_support/kucis_info/) <br>
+    [UMC SpringBoot 4th](https://www.makeus.in/umc) (2023.03 - 2023.06) <br>
+    [KITRI Best of The Best 12th](https://www.kitribob.kr/) (2023.06 - ) <br>
+    - [Archive](https://github.com/bob-12th)
+    [UMC SpringBoot 5th](https://www.makeus.in/umc) (2023.09 - ) <br>
