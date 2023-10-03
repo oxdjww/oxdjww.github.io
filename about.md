@@ -45,8 +45,8 @@ title: About
 
 ## Projects
 
-- [강의가 듣고 싶어서](https://www.notion.so/oxdjww/8fc6e6d45d0f45239ea869606eed10d6?pvs=4)
-- [FLAG](https://www.notion.so/oxdjww/FLAG-470143d2611e4fc78901b50d34640d0e?pvs=4)
+- [강의가 듣고 싶어서](https://oxdjww.site/projects)
+- [FLAG](https://oxdjww.site/projects)
 
 ## Awards
 
