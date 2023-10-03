@@ -2,9 +2,15 @@ title: JungTae Kwon(oxdjww)
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: | # description of the site (multiple lines allowed)
-  Please refer to the 'about' section at the top for detailed information about me···························              
-  Please refer to the 'logs' section at the top for my logs about me···························
-  Please refer to the 'github' section at the top for my GITHUB···························
+  about:
+  - detailed_information: "Please refer to the 'about' section at the top for detailed information about me."
+
+logs:
+  - logs_about_me: "Please refer to the 'logs' section at the top for my logs about me."
+
+github:
+  - GITHUB: "Please refer to the 'github' section at the top for my GITHUB."
+
   
   
 permalink: /:slug
