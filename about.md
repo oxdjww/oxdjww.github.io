@@ -26,13 +26,15 @@ title: About
 
 ---
 
-## Educations
+## Logs
+
+### Educations
 
 - Yangchung High School (2016.03 - 2019.02)
 - Soongsil Univ. (2019.03 - )
   - Major in Software Engineering
 
-## Communities
+### Communities
 
 - [ASC : Academic Security Club](https://www.notion.so/ASC-1e2e608c98c949a696f02b363480ae38?pvs=4) (2022.09 - )
   - Club of Soongsil Univ. Software
@@ -43,21 +45,21 @@ title: About
   - [Archive](https://github.com/bob-12th)
 - [UMC SpringBoot 5th](https://www.makeus.in/umc) (2023.09 - )
 
-## Projects
+### Projects
 
 - [강의가 듣고 싶어서](https://oxdjww.site/projects)
 - [FLAG](https://oxdjww.site/projects)
 
-## Awards
+### Awards
 
 - [UMC 4th Ideathon 우수상](https://www.notion.so/oxdjww/UMC-Ideathon-5d8b54b888ae49a292c76cafe8e3c755?pvs=4)
 - [UMC 4th Demoday 우수상](https://www.notion.so/oxdjww/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c?pvs=4)
 
-## Certifications
+### Certifications
 
 - TOPCIT 374(Lv2) (2023.05.20)
 
-## Others
+### Others
 
 - 병역필 (대한민국 육군 포병 2020.1 - 2021.07)
 - 숭실대학교 소프트웨어학부 7대 학생회 Stream (2021.11 - 2022.12)
