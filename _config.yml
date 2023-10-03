@@ -1,8 +1,14 @@
-title: Moonwalk
+title: JungTae Kwon
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  > 다양한 경험과 깊은 공부를 통해 T자형 인재가 되고 싶은 학부생입니다.
+  - 숭실대학교 소프트웨어학부 5학기 이수 후, 휴학중입니다.
+  - 소프트웨어 주전공, 정보보호 융합전공 학부 과정을 이수하고 있습니다.
+  - 기록의 중요성을 알고, 이를 몸소 실천하는 사람입니다.
+    - Github commit, Tistory posting을 꾸준히 실천합니다.
+  - 소통을 통해 사람을 알아가는 과정을 소중하게 생각합니다.
+    - 학부 학생회 경험이 있습니다.
 
 permalink: /:slug
 
