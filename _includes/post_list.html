@@ -1,17 +1,13 @@
 {% if site.posts.size > 0 %}
   <ul>
-    <p>Yangchung High School (2016.03 - 2019.02)<br>
-      Soongsil Univ. (2019.03 - )<br>
-      - Major in Software Engineering<br>
-      - Convergence Major in Information Security</p>
-      <p><a href="https://www.notion.so/ASC-1e2e608c98c949a696f02b363480ae38?pvs=4" target="_blank">ASC : Academic Security Club</a> (2022.09 - )<br>
-      - Club of Soongsil Univ. Software<br>
-      - 2022 Naver D2 Campus Partner<br>
-      - <a href="https://www.kisia.or.kr/talent_support/kucis_info/" target="_blank">2023 KUCIS</a></p>
-      <p><a href="https://www.makeus.in/umc" target="_blank">UMC SpringBoot 4th</a> (2023.03 - 2023.06)<br>
-      <a href="https://www.kitribob.kr/" target="_blank">KITRI Best of The Best 12th</a> (2023.06 - )<br>
-      - <a href="https://github.com/bob-12th" target="_blank">Archive</a></p>
-      <p><a href="https://www.makeus.in/umc" target="_blank">UMC SpringBoot 5th</a> (2023.09 - )</p>
-      
+    <h1> Projects </h1>
+    {% for post in site.posts %}
+      <li class="post-list-item">
+        <span class="home-date">
+          {{ post.date | date: site.theme_config.date_format }}»
+        </span>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
   </ul>
 {% endif %}
