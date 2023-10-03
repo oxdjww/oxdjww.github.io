@@ -5,8 +5,8 @@ navbar_entries:
   - title: logs
     url: logs
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: github
+    url: https://github.com/oxdjww
 
 project_entries:
   - title: Project 1
