@@ -5,7 +5,7 @@ title: About
 
 <img src="https://github.com/oxdjww/aboutme/assets/102507306/962e9d79-e517-40de-a322-a0b7dcd14c17" width="206" height="265" align="left">
 
-
+<br>
 
 # JungTae Kwon (oxdjww)
 
