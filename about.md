@@ -7,6 +7,8 @@ title: About
 
 <br>
 
+<br>
+
 # JungTae Kwon (oxdjww)
 
 2000.03.22
