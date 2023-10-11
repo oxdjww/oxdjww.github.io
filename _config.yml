@@ -1,6 +1,6 @@
 title: oxdjww
-url: https://oxdjww.github.io/
-baseurl: "/about/"
+url: "https://oxdjww.github.io/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
