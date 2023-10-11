@@ -3,24 +3,20 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Contact
 
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [oxdjww@gmail.com](mailto:oxdjww@gmail.com)
 
----
+--- 
 
-## Mailing Address
+## Info
+* Github : [oxdjww.hub](https://github.com/oxdjww)
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Blog : [oxdjww.log](https://blog.oxdjww.site)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> 1. [Instagram](https://instagram.com/oxdjww)
+> 2. [Facebook](https://fb.com/oxdjw)

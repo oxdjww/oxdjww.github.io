@@ -4,42 +4,75 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="oxdjww.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I'm oxdjww
+<br>
+I am a undergraduate at Soongil University of Department of Software Engineering.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<br>
 
-## Research Interest
+## Interest in..
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm interested in server dev and information security.
 
-## Publications
+<br>
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Educations
 
-## Typography
+- Yangchung High School `2016.03 - 2019.02`
+- Soonsil Univ `2019.03 - `
+    - Major in Software Engineering
+    - Convergence Major in Information Security
+- [KITRI Best of The Best 12th](https://www.kitribob.kr/) `2023.06 - `
+    - [Archive](https://github.com/bob-12th)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+<br>
 
-Here is a table
+## Communities
 
-Year | Award | Category
+- [ASC : Academic Security Club](https://www.notion.so/native/ASC-1e2e608c98c949a696f02b363480ae38?pvs=4&deepLinkOpenNewTab=true) `2022.09 - `
+    - Club of Soongsil Univ. Software
+    - [2022 Naver D2 Campus Partner](https://github.com/D2CAMPUS-PARTNER/2022-Kick-off)
+    - [2023 KUCIS](https://www.kisia.or.kr/talent_support/kucis_info/)
+- [UMC SpringBoot 4th](https://www.makeus.in/umc) `2023.03 - 2023.06`
+- [UMC SpringBoot 5th](https://www.makeus.in/umc) `2023.09 - `
+- [GDSC : Google Developer Student Clubs](https://gdsc.community.dev/) `2023.10 - `
+    - [GDSC Soongsil Univ.](https://gdscsoongsil.pages.dev/)
+    - Core Member : Part Lead (Server/Cloud)
+
+<br>
+
+## Projects
+
+- [강의가 듣고 싶어서](https://oxdjww.notion.site/7ecd8e34f5de49e89b0e689166d114fb)
+- [FLAG](https://oxdjww.notion.site/FLAG-app-70518dfbec3045d2ab39f5e3af55808b)
+
+<br>
+
+## Awards
+
+Year | Award | Ref
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2023 | UMC 4th Ideathon 우수상  | [About](https://oxdjww.notion.site/UMC-4th-Ideathon-5d8b54b888ae49a292c76cafe8e3c755)
+2023 | UMC 4th Demoday 우수상 | [About](https://oxdjww.notion.site/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c)
 
-Here is a horizontal rule
+<br>
 
----
+## Certifications
 
-Here is a blockquote
+- TOPCIT Lv.2 (374) `2023.05.20`
 
-> To a great mind, nothing is little
+<br>
 
-## References
+## Activities
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- [객체지향프로그래밍 스터디](https://oxdjww.notion.site/4a844329058c4277b7a3366d4c8248d3?pvs=4)
+- [2023 SSU Devcon Seminar](https://oxdjww.notion.site/SSU-Devcon-01ca4ba1b6a2465eb6bd19621e9acaa0)
+
+<br>
+
+## Others
+
+- 병역 필 (대한민국 육군 포병) `2020.1 - 2021.07`
+- 숭실대학교 소프트웨어학부 7대 학생회 Stream `2021.11 - 2022.22`
