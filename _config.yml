@@ -17,8 +17,8 @@ sass:
 ##plz
 nav:
  - name: "About"
-   link: /about/"
+   link: /about.md"
  - name: "CV"
    link: "/CV.pdf"
  - name: "Contact"
-   link: "/contact/"
+   link: "/contact.md"
