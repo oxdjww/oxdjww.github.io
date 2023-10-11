@@ -14,11 +14,9 @@ footer_text: "Page design by Ankit Sultana"
 sass:
     style: compressed
     sass_dir: _sass
-##plz
+
 nav:
- - name: "About"
-   link: /about.md"
  - name: "CV"
    link: "/CV.pdf"
  - name: "Contact"
-   link: "/contact.md"
+   link: "/contact/"
