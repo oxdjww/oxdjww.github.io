@@ -19,4 +19,4 @@ nav:
  - name: "CV"
    link: "/CV.pdf"
  - name: "Contact"
-   link: "/contact/"
+   link: "/contact.md/"
