@@ -8,7 +8,7 @@ layout: default
 
 Hi! I'm JungTae Kwon, oxdjww
 <br>
-I am a undergraduate at Soongsil University of Department of Software Engineering. <br>
+I am a undergraduate at Soongsil University, Department of Software Engineering. <br>
 (currently taking a temporary leave of absence from the school)
 
 <br>
@@ -22,7 +22,7 @@ I'm interested in server development and information security.
 ## Educations
 
 - Yangchung High School `2016.03 - 2019.02`
-- Soonsil Univ `2019.03 - `
+- Soongsil Univ `2019.03 - `
     - Major in Software Engineering
     - Convergence Major in Information Security
 - [KITRI Best of The Best 12th](https://www.kitribob.kr/) `2023.06 - `
@@ -55,8 +55,8 @@ I'm interested in server development and information security.
 
 Year | Award | Ref
 -----|-------|--------
-2023 | UMC 4th Ideathon 우수상  | [About](https://oxdjww.notion.site/UMC-4th-Ideathon-5d8b54b888ae49a292c76cafe8e3c755)
-2023 | UMC 4th Demoday 우수상 | [About](https://oxdjww.notion.site/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c)
+2023 | UMC 4th Ideathon 우수상  | [Ref](https://oxdjww.notion.site/UMC-4th-Ideathon-5d8b54b888ae49a292c76cafe8e3c755)
+2023 | UMC 4th Demoday 우수상 | [Ref](https://oxdjww.notion.site/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c)
 
 <br>
 
