@@ -6,10 +6,11 @@ layout: default
 
 <img class="profile-picture" src="oxdjww.jpg">
 
-Hi! I'm oxdjww
+Hi! I'm JungTae Kwon, oxdjww
 <br>
-I am a undergraduate at Soongil University of Department of Software Engineering. <br>
+I am a undergraduate at Soongsil University of Department of Software Engineering. <br>
 (currently taking a temporary leave of absence from the school)
+
 <br>
 
 ## Interest in..
