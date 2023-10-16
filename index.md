@@ -8,13 +8,13 @@ layout: default
 
 Hi! I'm oxdjww
 <br>
-I am a undergraduate at Soongil University of Department of Software Engineering.
-
+I am a undergraduate at Soongil University of Department of Software Engineering. <br>
+(currently taking a temporary leave of absence from the school)
 <br>
 
 ## Interest in..
 
-I'm interested in server dev and information security.
+I'm interested in server development and information security.
 
 <br>
 
