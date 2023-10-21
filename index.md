@@ -4,7 +4,8 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="oxdjww.jpg">
+<img class="profile-picture" src="oxdjww.jpg" width="500" height="400">
+
 
 Hi! I'm JungTae Kwon, oxdjww
 <br>
