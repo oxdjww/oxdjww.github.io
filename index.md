@@ -54,11 +54,11 @@ I'm interested in server development and information security.
 
 ## Awards
 
-Year | Award | Ref
------|-------|--------
-2023 | UMC 4th Ideathon 우수상  | [Ref](https://oxdjww.notion.site/UMC-4th-Ideathon-5d8b54b888ae49a292c76cafe8e3c755)
-2023 | UMC 4th Demoday 우수상 | [Ref](https://oxdjww.notion.site/UMC-4th-Demoday-1d75d564ac5f4f2ea4577a9d95fc9c0c)
-
+Year | Award |
+-----|-------|
+2023 | UMC 4th Ideathon 우수상 |
+2023 | UMC 4th Demoday 우수상 |
+2023 | Ne(o)rdinary Hackerthon 최우수상 |
 <br>
 
 ## Certifications
