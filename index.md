@@ -59,6 +59,7 @@ Year | Award |
 2023 | UMC 4th Ideathon 우수상 |
 2023 | UMC 4th Demoday 우수상 |
 2023 | Ne(o)rdinary Hackerthon 최우수상 |
+
 <br>
 
 ## Certifications
