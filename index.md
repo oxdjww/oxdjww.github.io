@@ -63,7 +63,7 @@ Year | Award | Ref
 
 ## Certifications
 
-- TOPCIT Lv.2 (374) `2023.05.20`
+- TOPCIT Lv.3 (528) `2023.10.28`
 
 <br>
 
