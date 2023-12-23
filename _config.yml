@@ -7,9 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+
 
 sass:
     style: compressed
@@ -20,3 +18,5 @@ nav:
    link: "/CV.pdf"
  - name: "Contact"
    link: "/contact"
+
+footer_redirect: "20000322"

@@ -3,16 +3,18 @@ table {
     border-collapse: collapse;
     width: 100%;
     padding: 0;
+    color: #000;
 }
 table tr {
     border-top: 1px solid #cccccc;
-    background-color: white;
+    background-color: #001;
+    color: #FFF;
     margin: 0;
     padding: 0;
 }
-table tr:nth-child(2n) {
-    background-color: #f8f8f8;
-}
+// table tr:nth-child(2n) {
+//     background-color: #A0A0A0;
+// }
 table tr th {
     font-weight: bold;
     border: 1px solid #cccccc;

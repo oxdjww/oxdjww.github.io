@@ -7,48 +7,32 @@ layout: default
 <img class="profile-picture" src="oxdjww.jpg">
 
 
-Hi! I'm JungTae Kwon, oxdjww
-<br>
-I am a undergraduate at Soongsil University, Department of Software Engineering. <br>
-(currently taking a temporary leave of absence from the school)
-
-<br>
-
-## Interest in..
-
+Hi! I'm JungTae Kwon, oxdjww<br>
 I'm interested in server development and information security.
 
 <br>
 
 ## Educations
 
-- Yangchung High School `2016.03 - 2019.02`
-- Soongsil Univ `2019.03 - `
-    - Major in Software Engineering
-    - Convergence Major in Information Security
-- [KITRI Best of The Best 12th](https://www.kitribob.kr/) `2023.06 - `
-    - [Archive](https://github.com/bob-12th)
+- 양정고등학교 `2016.03 - 2019.02`
+- 숭실대학교 소프트웨어학부 `2019.03 - present`
+    - 소프트웨어 주전공
+    - 정보보호 융합전공
+- [한국정보기술연구원 차세대 보안리더 양성 프로그램 BEST OF THE BEST 12기 보안제품개발트랙](https://www.kitribob.kr/) `2023.06 - present`
 
 <br>
 
 ## Communities
 
-- [ASC : Academic Security Club](https://www.notion.so/native/ASC-1e2e608c98c949a696f02b363480ae38?pvs=4&deepLinkOpenNewTab=true) `2022.09 - `
-    - Club of Soongsil Univ. Software
+- [ASC : Academic Security Club](https://ssu-asc.github.io/) `2022.09 - present`
+    - 숭실대학교 소프트웨어학부 보안 소모임
     - [2022 Naver D2 Campus Partner](https://github.com/D2CAMPUS-PARTNER/2022-Kick-off)
     - [2023 KUCIS](https://www.kisia.or.kr/talent_support/kucis_info/)
-- [UMC SpringBoot 4th](https://www.makeus.in/umc) `2023.03 - 2023.06`
-- [UMC SpringBoot 5th](https://www.makeus.in/umc) `2023.09 - `
-- [GDSC : Google Developer Student Clubs](https://gdsc.community.dev/) `2023.10 - `
-    - [GDSC Soongsil Univ.](https://gdscsoongsil.pages.dev/)
+- [UMC SpringBoot 4기](https://www.makeus.in/umc) `2023.03 - 2023.06`
+- [UMC SpringBoot 5기](https://www.makeus.in/umc) `2023.09 - present`
+- [GDSC : Google Developer Student Clubs](https://gdsc.community.dev/) `2023.10 - present`
+    - [GDSC 숭실대 지부](https://gdscsoongsil.pages.dev/)
     - Core Member : Part Lead (Server/Cloud)
-
-<br>
-
-## Projects
-
-- [강의가 듣고 싶어서](https://oxdjww.notion.site/7ecd8e34f5de49e89b0e689166d114fb)
-- [FLAG](https://oxdjww.notion.site/FLAG-app-70518dfbec3045d2ab39f5e3af55808b)
 
 <br>
 
@@ -58,13 +42,7 @@ Year | Award |
 -----|-------|
 2023 | UMC 4th Ideathon 우수상 |
 2023 | UMC 4th Demoday 우수상 |
-2023 | Ne(o)rdinary Hackerthon 최우수상 |
-
-<br>
-
-## Certifications
-
-- TOPCIT Lv.3 (528) `2023.10.28`
+2023 | Ne(o)rdinary 5th Hackerthon 최우수상 |
 
 <br>
 
@@ -79,3 +57,4 @@ Year | Award |
 
 - 병역 필 (대한민국 육군 포병) `2020.1 - 2021.07`
 - 숭실대학교 소프트웨어학부 7대 학생회 Stream `2021.11 - 2022.22`
+
