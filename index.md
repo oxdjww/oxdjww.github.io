@@ -4,8 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="oxdjww.jpg">
-
+<img class="profile-picture" src="https://github.com/oxdjww/oxdjww.github.io/assets/102507306/4d178a51-f8da-47aa-8329-14c3d670a4fc">
 
 Hi! I'm JungTae Kwon, oxdjww<br>
 I'm interested in Server Development and Information Security.
@@ -28,7 +27,7 @@ Here is my.. [🧑🏻‍💻 Github](https://github.com/oxdjww), [📌 Blog](ht
 ## Communities
 
 - [SSUMC 6기](https://www.makeus.in/umc) `2024.02 - present`
-    - 개발연합동아리 UMC 숭실대 지부 6기 Lead
+    - 개발연합동아리 UMC 숭실대 지부 6기 Leader
 - [GDSC 3기 Soongsil Univ.](https://gdsc.community.dev/) `2023.10 - present`
     - [Google Developer Student Clubs 숭실대 지부](https://gdscsoongsil.pages.dev/)
     - Core Member   : Server/Cloud Part Lead
@@ -45,6 +44,6 @@ Here is my.. [🧑🏻‍💻 Github](https://github.com/oxdjww), [📌 Blog](ht
 
 ## Others
 
-- 숭실대학교 소프트웨어학부 7대 학생회 Stream `2021.11 - 2022.22`
+- 숭실대학교 소프트웨어학부 7대 학생회 Stream `2021.11 - 2022.12`
 - 병역 필 (대한민국 육군 포병) `2020.1 - 2021.07`
 
