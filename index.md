@@ -26,17 +26,20 @@ Here is my.. [🧑🏻‍💻 Github](https://github.com/oxdjww), [📌 Blog](ht
 
 ## Communities
 
-- [SSUMC 6기](https://www.makeus.in/umc) `2024.02 - present`
-    - 개발연합동아리 UMC 숭실대 지부 6기 Leader
+- [UMC 6기](https://www.makeus.in/umc) `2024.02 - present`
+    - 개발연합동아리 University Makeus Challenge(UMC) 6기 숭실대 Leader
+- [ASC 2024](https://ssu-asc.github.io/) `2024.02 - present`
+    - 숭실대학교 소프트웨어학부 보안 소모임 ASC(Academic Security Club) 운영진
+    - [Recruiting CTF](https://recruit.ssu-asc.xyz/) EASY_REV 출제
 - [GDSC 3기 Soongsil Univ.](https://gdsc.community.dev/) `2023.10 - present`
     - [Google Developer Student Clubs 숭실대 지부](https://gdscsoongsil.pages.dev/)
     - Core Member   : Server/Cloud Part Lead
-- [SSUMC 5기](https://www.makeus.in/umc) `2023.09 - 2024.02`
-    - 개발연합동아리 UMC 숭실대 지부 5기 SpringBoot
-- [SSUMC 4기](https://www.makeus.in/umc) `2023.03 - 2023.08`
-    - 개발연합동아리 UMC 숭실대 지부 4기 SpringBoot
-- [ASC : Academic Security Club](https://ssu-asc.github.io/) `2022.09 - present`
-    - 숭실대학교 소프트웨어학부 보안 소모임
+- [UMC 5기](https://www.makeus.in/umc) `2023.09 - 2024.02`
+    - 개발연합동아리 University Makeus Challenge(UMC) 5기 숭실대 SpringBoot
+- [UMC 4기](https://www.makeus.in/umc) `2023.03 - 2023.08`
+    - 개발연합동아리 University Makeus Challenge(UMC) 4기 숭실대 SpringBoot
+- [ASC](https://ssu-asc.github.io/) `2022.09 - present`
+    - 숭실대학교 소프트웨어학부 보안 소모임 ASC(Academic Security Club)
     - [2022 Naver D2 Campus Partner](https://github.com/D2CAMPUS-PARTNER/2022-Kick-off)
     - [2023 KUCIS](https://www.kisia.or.kr/talent_support/kucis_info/)
 
